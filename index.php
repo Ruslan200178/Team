@@ -9,5 +9,7 @@
     <h2>dfnf</h2>
 
     <h2>Hello World</h2>
+
+    <p>This is a sample PHP file.</p>
 </body>
 </html>
